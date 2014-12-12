@@ -1,0 +1,9 @@
+[package]
+
+name = "news_junkie"
+version = "0.0.1"
+authors = [ "Dan McGrady <dan@dmix.is>" ]
+
+[[bin]]
+
+name = "news_junkie"
